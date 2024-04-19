@@ -3,7 +3,6 @@ import { useForm } from "react-hook-form";
 import { Link } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import Navbar from "./Nav";
 import Layout from "../components/Layout";
 
 const CheckoutPage = () => {
